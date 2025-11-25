@@ -44,7 +44,8 @@ plt.show()
 ```
 
 ## Output:
-![Ex1](https://github.com/user-attachments/assets/91a98207-920e-49dc-ad29-40ff597570c6)
+
+![Ex1](https://github.com/user-attachments/assets/f68c2855-19c8-4055-80db-8f47a16d53b8)
 
 
 
